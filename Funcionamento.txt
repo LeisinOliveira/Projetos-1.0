@@ -1,0 +1,2 @@
+Acessar http://localhost:3000/
+Antes executar terminal em node.js com o seguinte comando node app.js 
